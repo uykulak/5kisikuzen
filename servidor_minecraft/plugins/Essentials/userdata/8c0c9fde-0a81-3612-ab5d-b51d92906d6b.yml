@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.242.39.106
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1782170612160
+  login: 1782162681909
+money: '0'
+last-account-name: Elaiht
+logoutlocation:
+  world: 5360d8e2-0ed6-4ac0-a6dc-296a824200a3
+  world-name: world
+  x: -56.72686253666343
+  y: 70.0
+  z: 416.7236345430791
+  yaw: 37.70077896118164
+  pitch: 8.141161918640137
+lastlocation:
+  world: 5360d8e2-0ed6-4ac0-a6dc-296a824200a3
+  world-name: world
+  x: -115.66261703673695
+  y: 80.41999998688698
+  z: -218.92391180782346
+  yaw: 133.71771240234375
+  pitch: 21.410511016845703
